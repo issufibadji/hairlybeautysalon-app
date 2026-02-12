@@ -1,0 +1,7 @@
+{
+  "name": "Hairly - Beauty & Salon App",
+  "description": "A premium dark-themed salon booking application featuring service categories, specialist selection, and appointment management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
